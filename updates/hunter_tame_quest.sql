@@ -1,0 +1,2 @@
+UPDATE quest_template SET RewSpell = 19614
+WHERE entry IN (6085, 6064,6084, 6061, 6087, 6088 , 6063, 6062, 6083, 6082, 6101, 6102);
